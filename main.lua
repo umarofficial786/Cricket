@@ -1,4 +1,4 @@
--- Tournament Schedule Manager - protected build
+f-- Tournament Schedule Manager - protected build
 -- local APP_VERSION = 4
 local K = {"zn6VzzOy", "uo0pQwW8", "1G93bMku"}
 local P = [[
