@@ -1,9 +1,4 @@
 7
 Timing Fix: Pehle din k all matchs  time ab automatically baaki tamam matches ke liye set ho jayega
-
- 
-
-
-
 Manual Control: Agar aap chahen to is time ko manually bhi apni marzi se tabdeel (change) kar sakte hain. ⚙️
 Error Fix: Points Table aur Fixtures mein jo issues thay, unhein mukammal taur par hal (fix) kar diya gaya hai
